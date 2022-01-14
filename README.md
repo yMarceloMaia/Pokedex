@@ -13,7 +13,7 @@ Pokedex é uma enciclopédia virtual portátil de Pokemons.
 
 ## Autores
 
-   - Marcelo Maia
+   - [Marcelo Maia](https://github.com/yMarceloMaia)
    - [Igor Medeiros](https://github.com/0dayIg0r)
   
 ## Acesso
