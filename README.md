@@ -14,7 +14,7 @@ Pokedex é uma enciclopédia virtual portátil de Pokemons.
 ## Autores
 
    - Marcelo Maia
-   - Igor Medeiros
+   - [Igor Medeiros](https://github.com/0dayIg0r)
   
 ## Acesso
 - https://condemned-stove.surge.sh/
